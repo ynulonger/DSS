@@ -1,0 +1,1254 @@
+[
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00012.jpg",
+    "result": {"bbox_2d": [53,74,569,381],"label": "fish","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00018.jpg",
+    "result": {"bbox_2d": [209,167,823,445],"label": "lizard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00061.jpg",
+    "result": [{"bbox_2d": [  209,  120,  453,  643],"label": "owl","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00064.jpg",
+    "result": {"bbox_2d": [74,306,215,389],"label": "animal/insect","confidence": 0.8
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00071.jpg",
+    "result": [{"bbox_2d": [  156,  87,  234,  159],"label": "animal","confidence": 0.95},{"bbox_2d": [  2,  20,  108,  159],"label": "animal","confidence": 0.92}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00079.jpg",
+    "result": {"bbox_2d": [76,95,489,318],"label": "dog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00087.jpg",
+    "result": {"bbox_2d": [493,48,821,350],"label": "turtle","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00088.jpg",
+    "result": {"bbox_2d": [78,206,375,409],"label": "fox","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00090.jpg",
+    "result": {"bbox_2d": [85,279,976,834],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00097.jpg",
+    "result": {"bbox_2d": [136,75,248,198],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00098.jpg",
+    "result": {"bbox_2d": [174,98,500,263],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00100.jpg",
+    "result": [{"bbox_2d": [  119,  153,  247,  328],"label": "animal/insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00102.jpg",
+    "result": {"bbox_2d": [73,96,94,115],"label": "insect","confidence": 0.85
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00112.jpg",
+    "result": [{"bbox_2d": [  136,  24,  548,  457],"label": "octopus","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00114.jpg",
+    "result": {"bbox_2d": [256,64,553,327],"label": "rabbit","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00120.jpg",
+    "result": {"bbox_2d": [38,24,265,183],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00122.jpg",
+    "result": [{"bbox_2d": [  184,  59,  364,  307],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00124.jpg",
+    "result": {"bbox_2d": [187,59,546,336],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00129.jpg",
+    "result": {"bbox_2d": [65,67,304,210],"label": "bird","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00135.jpg",
+    "result": [{"bbox_2d": [  485,  39,  723,  260],"label": "turtle","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00138.jpg",
+    "result": [{"bbox_2d": [  35,  89,  647,  433],"label": "frog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00141.jpg",
+    "result": {"bbox_2d": [228,137,456,390],"label": "goat","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00145.jpg",
+    "result": {"bbox_2d": [126,59,618,403],"label": "fish","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00147.jpg",
+    "result": [{"bbox_2d": [  300,  172,  459,  326],"label": "lizard","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00153.jpg",
+    "result": [{"bbox_2d": [  169,  305,  240,  487],"label": "insect","confidence": 0.95},{"bbox_2d": [  238,  308,  316,  492],"label": "insect","confidence": 0.92}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00156.jpg",
+    "result": [{"bbox_2d": [  56,  108,  497,  342],"label": "crab","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00160.jpg",
+    "result": {"bbox_2d": [203,164,905,607],"label": "butterfly","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00166.jpg",
+    "result": {"bbox_2d": [39,48,576,340],"label": "fish","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00169.jpg",
+    "result": [{"bbox_2d": [  113,  109,  347,  546],"label": "gecko","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00171.jpg",
+    "result": {"bbox_2d": [408,97,603,415],"label": "goat","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00175.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00183.jpg",
+    "result": [{"bbox_2d": [  15,  60,  718,  498],"label": "lizard","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00196.jpg",
+    "result": {"bbox_2d": [178,63,259,140],"label": "seal","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00197.jpg",
+    "result": [{"bbox_2d": [  53,  34,  728,  529],"label": "bird","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00205.jpg",
+    "result": [{"bbox_2d": [  87,  143,  591,  430],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00207.jpg",
+    "result": [{"bbox_2d": [  295,  228,  763,  604],"label": "bird","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00208.jpg",
+    "result": {"bbox_2d": [234,16,625,616],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00209.jpg",
+    "result": {"bbox_2d": [3,1,392,304],"label": "spider","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00224.jpg",
+    "result": [{"bbox_2d": [  278,  369,  645,  784],"label": "bat","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00232.jpg",
+    "result": [{"bbox_2d": [  364,  65,  628,  470],"label": "fish","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00235.jpg",
+    "result": [{"bbox_2d": [  308,  145,  467,  294],"label": "frog","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00257.jpg",
+    "result": [{"bbox_2d": [  63,  85,  427,  449],"label": "owl","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00259.jpg",
+    "result": [{"bbox_2d": [  167,  185,  394,  386],"label": "animal/insect","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00266.jpg",
+    "result": {"bbox_2d": [38,97,645,422],"label": "fish","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00269.jpg",
+    "result": [{"bbox_2d": [  118,  53,  279,  206],"label": "seahorse","confidence": 0.95},{"bbox_2d": [  48,  72,  119,  184],"label": "seahorse","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00270.jpg",
+    "result": [{"bbox_2d": [  87,  53,  400,  364],"label": "animal/insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00273.jpg",
+    "result": [{"bbox_2d": [  73,  104,  260,  465],"label": "animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00275.jpg",
+    "result": [{"bbox_2d": [  623,  257,  834,  539],"label": "frog","confidence": 0.95},{"bbox_2d": [  37,  75,  238,  336],"label": "frog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00285.jpg",
+    "result": {"bbox_2d": [1304,856,2792,2716],"label": "seahorse","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00310.jpg",
+    "result": [{"bbox_2d": [  4,  36,  278,  195],"label": "animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00332.jpg",
+    "result": {"bbox_2d": [123,14,479,235],"label": "animal","confidence": 0.85
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00333.jpg",
+    "result": {"bbox_2d": [1,38,531,387],"label": "arctic fox","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00337.jpg",
+    "result": {"bbox_2d": [463,115,697,340],"label": "goat","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00348.jpg",
+    "result": {"bbox_2d": [263,57,518,594],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00351.jpg",
+    "result": {"bbox_2d": [146,145,357,476],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00361.jpg",
+    "result": {"bbox_2d": [324,28,701,476],"label": "turtle","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00364.jpg",
+    "result": [{"bbox_2d": [  13,  36,  527,  408],"label": "sea dragon","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00365.jpg",
+    "result": {"bbox_2d": [84,125,439,674],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00381.jpg",
+    "result": {"bbox_2d": [64,95,341,448],"label": "bird","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00398.jpg",
+    "result": [{"bbox_2d": [  148,  123,  256,  179],"label": "animal","confidence": 0.85},{"bbox_2d": [  252,  85,  300,  130],"label": "animal","confidence": 0.8},{"bbox_2d": [  289,  78,  404,  110],"label": "animal","confidence": 0.75}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00406.jpg",
+    "result": [{"bbox_2d": [  146,  137,  315,  728],"label": "owl","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00408.jpg",
+    "result": {"bbox_2d": [495,163,2478,1178],"label": "lizard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00420.jpg",
+    "result": [{"bbox_2d": [  114,  7,  598,  326],"label": "animal/insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00421.jpg",
+    "result": [{"bbox_2d": [  228,  73,  654,  390],"label": "bird","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00422.jpg",
+    "result": {"bbox_2d": [174,289,400,811],"label": "animal/insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00430.jpg",
+    "result": {"bbox_2d": [43,198,837,590],"label": "dog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00435.jpg",
+    "result": [{"bbox_2d": [  245,  163,  478,  409],"label": "frog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00436.jpg",
+    "result": {"bbox_2d": [189,276,583,634],"label": "snake","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00443.jpg",
+    "result": {"bbox_2d": [0,164,811,756],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00444.jpg",
+    "result": {"bbox_2d": [0,109,392,325],"label": "moth","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00449.jpg",
+    "result": [{"bbox_2d": [  143,  125,  627,  358],"label": "animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00463.jpg",
+    "result": [{"bbox_2d": [  258,  146,  379,  228],"label": "animal/insect","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00470.jpg",
+    "result": [{"bbox_2d": [  985,  376,  3448,  2642],"label": "spider","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00471.jpg",
+    "result": {"bbox_2d": [546,53,678,269],"label": "turtle","confidence": 0.9
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00473.jpg",
+    "result": {"bbox_2d": [586,104,890,673],"label": "bird","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00478.jpg",
+    "result": [{"bbox_2d": [  357,  146,  728,  432],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00496.jpg",
+    "result": {"bbox_2d": [346,178,509,290],"label": "bird","confidence": 0.9
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00498.jpg",
+    "result": [{"bbox_2d": [  89,  87,  435,  246],"label": "spider","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00500.jpg",
+    "result": [{"bbox_2d": [  453,  287,  796,  617],"label": "spider","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00502.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00510.jpg",
+    "result": [{"bbox_2d": [  109,  378,  265,  674],"label": "owl","confidence": 0.95},{"bbox_2d": [  238,  333,  405,  583],"label": "owl","confidence": 0.92}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00515.jpg",
+    "result": [{"bbox_2d": [  103,  198,  347,  615],"label": "camouflaged insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00519.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00522.jpg",
+    "result": [{"bbox_2d": [173, 184, 365, 339],"label": "animal","confidence": 0.95    },    
+    {"bbox_2d": [228, 269, 472, 472],"label": "animal","confidence": 0.92    },    
+    {"bbox_2d": [478, 188, 640, 342],"label": "animal","confidence": 0.93    },    
+    {"bbox_2d": [458, 118, 646, 258],"label": "animal","confidence": 0.91    },    
+    {"bbox_2d": [552, 70, 607, 151],"label": "animal","confidence": 0.94    }]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00528.jpg",
+    "result": {"bbox_2d": [165,57,382,279],"label": "insect","confidence": 0.9
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00539.jpg",
+    "result": [{"bbox_2d": [  193,  58,  317,  264],"label": "animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00550.jpg",
+    "result": [{"bbox_2d": [  84,  193,  295,  476],"label": "animal/insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00563.jpg",
+    "result": [{"bbox_2d": [  283,  745,  406,  900],"label": "bat","confidence": 0.95},{"bbox_2d": [  346,  249,  530,  380],"label": "bat","confidence": 0.92},{"bbox_2d": [  420,  1,  587,  244],"label": "bat","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00594.jpg",
+    "result": {"bbox_2d": [39,21,295,271],"label": "rabbit","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00597.jpg",
+    "result": [{"bbox_2d": [  341,  235,  736,  508],"label": "spider","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00600.jpg",
+    "result": [{"bbox_2d": [  159,  194,  638,  427],"label": "animal/insect","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00602.jpg",
+    "result": [{"bbox_2d": [  83,  56,  470,  409],"label": "camouflaged animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00623.jpg",
+    "result": [{"bbox_2d": [  159,  4,  578,  346],"label": "rabbit","confidence": 0.95},{"bbox_2d": [  406,  330,  681,  563],"label": "rabbit","confidence": 0.92}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00631.jpg",
+    "result": {"bbox_2d": [[  74,  259,  206,  389]],"label": "animal/insect","confidence": 0.85
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00641.jpg",
+    "result": {"bbox_2d": [234,157,540,890],"label": "giraffe","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00647.jpg",
+    "result": {"bbox_2d": [53,24,589,610],"label": "dog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00677.jpg",
+    "result": {"bbox_2d": [396,245,440,297],"label": "fish","confidence": 0.8
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00688.jpg",
+    "result": [{"bbox_2d": [  74,  223,  1105,  776],"label": "lizard","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00694.jpg",
+    "result": [{"bbox_2d": [  105,  173,  604,  378],"label": "animal","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00699.jpg",
+    "result": {"bbox_2d": [119,134,376,408],"label": "animal","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00706.jpg",
+    "result": {"bbox_2d": [165,0,834,1512],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00713.jpg",
+    "result": {"bbox_2d": [483,335,1367,1019],"label": "octopus","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00723.jpg",
+    "result": [{"bbox_2d": [  137,  84,  644,  409],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00750.jpg",
+    "result": {"bbox_2d": [283,151,499,387],"label": "goat","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00758.jpg",
+    "result": {"bbox_2d": [0,65,463,318],"label": "chameleon","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00768.jpg",
+    "result": [{"bbox_2d": [  68,  27,  476,  305],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00779.jpg",
+    "result": [{"bbox_2d": [  96,  138,  420,  637],"label": "lizard","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00782.jpg",
+    "result": {"bbox_2d": [436,79,850,694],"label": "bird","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00783.jpg",
+    "result": {"bbox_2d": [247,158,493,468],"label": "lion","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00794.jpg",
+    "result": [{"bbox_2d": [  258,  163,  579,  462],"label": "frog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00800.jpg",
+    "result": [{"bbox_2d": [  154,  97,  699,  328],"label": "animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00801.jpg",
+    "result": [{"bbox_2d": [  153,  64,  287,  219],"label": "frog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00807.jpg",
+    "result": [{"bbox_2d": [  273,  264,  458,  869],"label": "spider","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00829.jpg",
+    "result": {"bbox_2d": [448,239,741,465],"label": "bird","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00846.jpg",
+    "result": [{"bbox_2d": [  45,  136,  789,  458],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00847.jpg",
+    "result": [{"bbox_2d": [  465,  339,  708,  450],"label": "animal","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00857.jpg",
+    "result": [{"bbox_2d": [  304,  105,  526,  397],"label": "insect","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00860.jpg",
+    "result": {"bbox_2d": [204,306,2075,1058],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00863.jpg",
+    "result": {"bbox_2d": [24,30,215,168],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00869.jpg",
+    "result": [{"bbox_2d": [  223,  98,  614,  979],"label": "chameleon","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00890.jpg",
+    "result": [{"bbox_2d": [  13,  84,  765,  588],"label": "spider","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00903.jpg",
+    "result": [{"bbox_2d": [  124,  467,  513,  902],"label": "chameleon","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00924.jpg",
+    "result": {"bbox_2d": [34,20,245,196],"label": "dog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00928.jpg",
+    "result": {"bbox_2d": [98,54,483,276],"label": "chameleon","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00931.jpg",
+    "result": [{"bbox_2d": [  135,  46,  227,  208],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00939.jpg",
+    "result": {"bbox_2d": [0,43,282,392],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00944.jpg",
+    "result": {"bbox_2d": [168,85,347,271],"label": "duck","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00959.jpg",
+    "result": [{"bbox_2d": [  104,  169,  203,  257],"label": "animal","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00977.jpg",
+    "result": {"bbox_2d": [48,35,176,262],"label": "cat","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00985.jpg",
+    "result": {"bbox_2d": [84,39,376,295],"label": "snow leopard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00991.jpg",
+    "result": [{"bbox_2d": [  89,  14,  235,  226],"label": "rabbit","confidence": 0.95},{"bbox_2d": [  137,  123,  313,  225],"label": "rabbit","confidence": 0.92}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00997.jpg",
+    "result": [{"bbox_2d": [  135,  89,  564,  427],"label": "camouflaged animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_00998.jpg",
+    "result": [{"bbox_2d": [  314,  151,  520,  537],"label": "owl","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01001.jpg",
+    "result": [{"bbox_2d": [  123,  174,  445,  1126],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01003.jpg",
+    "result": {"bbox_2d": [264,73,819,756],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01004.jpg",
+    "result": [{"bbox_2d": [  148,  3,  467,  559],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01006.jpg",
+    "result": {"bbox_2d": [413,225,578,776],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01008.jpg",
+    "result": {"bbox_2d": [148,35,409,364],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01009.jpg",
+    "result": {"bbox_2d": [127,14,306,224],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01014.jpg",
+    "result": {"bbox_2d": [[  138,  46,  257,  192]],"label": "dragon","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01016.jpg",
+    "result": {"description": "No animals, insects, or humans are visible in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01018.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01020.jpg",
+    "result": [{"bbox_2d": [  109,  68,  183,  195],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01021.jpg",
+    "result": {"bbox_2d": [104,89,175,163],"label": "animal/insect","confidence": 0.9
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01023.jpg",
+    "result": {"bbox_2d": [[  35,  164,  107,  218],[  35,  219,  107,  272]],"label": "animal/insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01025.jpg",
+    "result": {"bbox_2d": [23,85,67,194],"label": "statue","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01027.jpg",
+    "result": [{"bbox_2d": [  59,  40,  137,  168],"label": "human","confidence": 0.95},{"bbox_2d": [  137,  12,  239,  168],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01030.jpg",
+    "result": {"bbox_2d": [[  94,  178,  123,  205]],"label": "bird","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01032.jpg",
+    "result": [{"bbox_2d": [  0,  3,  195,  276],"label": "human","confidence": 0.98}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01034.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01041.jpg",
+    "result": [{"bbox_2d": [  335,  42,  446,  581],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01044.jpg",
+    "result": {"bbox_2d": [116,113,354,447],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01046.jpg",
+    "result": [{"bbox_2d": [  186,  7,  403,  359],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01048.jpg",
+    "result": [{"bbox_2d": [  395,  87,  824,  560],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01050.jpg",
+    "result": {"bbox_2d": [[  59,  23,  186,  360]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01052.jpg",
+    "result": {"bbox_2d": [18,113,546,756],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01053.jpg",
+    "result": {"bbox_2d": [345,186,479,322],"label": "animal/insect","confidence": 0.8
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01056.jpg",
+    "result": {"bbox_2d": [348,132,435,356],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01058.jpg",
+    "result": [{"bbox_2d": [  63,  54,  119,  117],"label": "human","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01064.jpg",
+    "result": {"bbox_2d": [[  1,  1,  249,  167]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01066.jpg",
+    "result": [{"bbox_2d": [  147,  18,  308,  156],"label": "camouflaged person","confidence": 0.95},{"bbox_2d": [  39,  35,  110,  80],"label": "camouflaged person","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01067.jpg",
+    "result": {"bbox_2d": [[  14,  58,  279,  196]],"label": "tree","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01068.jpg",
+    "result": [{"bbox_2d": [  65,  57,  104,  118],"label": "human","confidence": 0.95},{"bbox_2d": [  139,  38,  221,  176],"label": "human","confidence": 0.92}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01070.jpg",
+    "result": {"bbox_2d": [26,57,143,248],"label": "camouflaged animal","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01072.jpg",
+    "result": {"bbox_2d": [[  134,  8,  250,  179]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01074.jpg",
+    "result": [{"bbox_2d": [  136,  53,  247,  132],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01075.jpg",
+    "result": [{"bbox_2d": [  169,  0,  275,  168],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01078.jpg",
+    "result": {"bbox_2d": [13,19,145,278],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01081.jpg",
+    "result": {"bbox_2d": [[  1,  1,  249,  195]],"label": "animal/insect","confidence": 0.8
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01082.jpg",
+    "result": [{"bbox_2d": [  109,  3,  248,  175],"label": "camouflaged human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01087.jpg",
+    "result": [{"bbox_2d": [  138,  45,  207,  167],"label": "animal","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01090.jpg",
+    "result": {"bbox_2d": [[  134,  86,  252,  196]],"label": "animal/insect","confidence": 0.78
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01091.jpg",
+    "result": [{"bbox_2d": [  139,  56,  187,  164],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01094.jpg",
+    "result": [{"bbox_2d": [  98,  73,  495,  336],"label": "camouflaged person","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01095.jpg",
+    "result": [{"bbox_2d": [  573,  378,  824,  596],"label": "camouflaged object","confidence": 0.8}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01096.jpg",
+    "result": [{"bbox_2d": [  215,  369,  1014,  1092],"label": "human","confidence": 0.95},{"bbox_2d": [  21,  48,  778,  952],"label": "human","confidence": 0.92}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01098.jpg",
+    "result": {"bbox_2d": [258,40,360,274],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01100.jpg",
+    "result": [{"bbox_2d": [  268,  315,  749,  1165],"label": "camouflaged human","confidence": 0.95},{"bbox_2d": [  1228,  365,  1646,  1160],"label": "camouflaged human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01101.jpg",
+    "result": {"bbox_2d": [[  56,  24,  178,  249]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01103.jpg",
+    "result": [{"bbox_2d": [  235,  314,  576,  819],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01104.jpg",
+    "result": [{"bbox_2d": [  384,  150,  520,  419],"label": "human","confidence": 0.95},{"bbox_2d": [  167,  182,  273,  418],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01105.jpg",
+    "result": [{"bbox_2d": [  253,  60,  374,  600],"label": "human","confidence": 0.95},{"bbox_2d": [  1058,  84,  1187,  604],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01106.jpg",
+    "result": [{"bbox_2d": [  153,  224,  326,  667],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01107.jpg",
+    "result": {"bbox_2d": [0,253,526,894],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01110.jpg",
+    "result": [{"bbox_2d": [  139,  164,  425,  608],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01112.jpg",
+    "result": [{"bbox_2d": [  83,  31,  219,  174],"label": "camouflaged human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01113.jpg",
+    "result": [{"bbox_2d": [  357,  184,  609,  379],"label": "camouflaged human","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01115.jpg",
+    "result": [{"bbox_2d": [  146,  237,  415,  918],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01116.jpg",
+    "result": [{"bbox_2d": [  146,  375,  370,  689],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01117.jpg",
+    "result": {"bbox_2d": [163,234,547,750],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01118.jpg",
+    "result": [{"bbox_2d": [194, 635, 307, 698],"label": "butterfly","confidence": 0.95},{"bbox_2d": [665, 623, 775, 680],"label": "butterfly","confidence": 0.92},{"bbox_2d": [19, 260, 51, 308],"label": "butterfly","confidence": 0.9},{"bbox_2d": [44, 362, 90, 413],"label": "butterfly","confidence": 0.9},    {"bbox_2d": [477, 151, 527, 192],"label": "butterfly","confidence": 0.9}]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01122.jpg",
+    "result": [{"bbox_2d": [  473,  215,  680,  659],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01126.jpg",
+    "result": {"bbox_2d": [[  83,  0,  267,  359]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01128.jpg",
+    "result": [{"bbox_2d": [  354,  129,  736,  587],"label": "animal","confidence": 0.9},{"bbox_2d": [  0,  34,  347,  587],"label": "animal","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01131.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01132.jpg",
+    "result": [{"bbox_2d": [  165,  243,  427,  798],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01133.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01135.jpg",
+    "result": {"bbox_2d": [[  65,  143,  439,  448]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01137.jpg",
+    "result": {"bbox_2d": [68,305,724,644],"label": "sculpture","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01139.jpg",
+    "result": [{"bbox_2d": [  219,  263,  475,  508],"label": "camouflaged human","confidence": 0.9},{"bbox_2d": [  308,  306,  747,  508],"label": "camouflaged human","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01140.jpg",
+    "result": [{"bbox_2d": [  68,  65,  847,  543],"label": "heron","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01141.jpg",
+    "result": [{"bbox_2d": [  376,  280,  756,  749],"label": "butterfly","confidence": 0.95},{"bbox_2d": [  533,  758,  701,  1007],"label": "butterfly","confidence": 0.9},{"bbox_2d": [  599,  0,  756,  190],"label": "butterfly","confidence": 0.8}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01143.jpg",
+    "result": {"bbox_2d": [0,234,587,896],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01144.jpg",
+    "result": [{"bbox_2d": [  63,  45,  278,  332],"label": "camouflaged person","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01145.jpg",
+    "result": {"bbox_2d": [75,203,164,308],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01148.jpg",
+    "result": [{"bbox_2d": [  89,  54,  136,  184],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01150.jpg",
+    "result": [{"bbox_2d": [  358,  74,  506,  295],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01151.jpg",
+    "result": {"bbox_2d": [239,54,436,337],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01154.jpg",
+    "result": {"bbox_2d": [86,179,134,225],"label": "ear","confidence": 0.9
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01156.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01158.jpg",
+    "result": [{"bbox_2d": [  0,  0,  252,  336],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01159.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the provided image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01161.jpg",
+    "result": [{"bbox_2d": [  294,  151,  367,  271],"label": "bird","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01163.jpg",
+    "result": [{"bbox_2d": [  445,  107,  613,  323],"label": "human","confidence": 0.95},{"bbox_2d": [  48,  0,  354,  616],"label": "human","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01164.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01165.jpg",
+    "result": [{"bbox_2d": [  325,  76,  485,  159],"label": "yellow fish","confidence": 0.9},{"bbox_2d": [  449,  181,  585,  260],"label": "lobster","confidence": 0.8},{"bbox_2d": [  100,  170,  352,  371],"label": "lobster","confidence": 0.9},{"bbox_2d": [  0,  346,  103,  437],"label": "lobster","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01168.jpg",
+    "result": {"bbox_2d": [84,195,113,210],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01170.jpg",
+    "result": {"description": "No animals, insects, or humans detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01172.jpg",
+    "result": {"bbox_2d": [[  35,  17,  164,  278]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01175.jpg",
+    "result": {"bbox_2d": [[  64,  35,  224,  249]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01177.jpg",
+    "result": [{"bbox_2d": [  85,  134,  120,  176],"label": "dog","confidence": 0.9},{"bbox_2d": [  145,  100,  180,  180],"label": "human","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01179.jpg",
+    "result": [{"bbox_2d": [  16,  87,  123,  225],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01180.jpg",
+    "result": [{"bbox_2d": [  78,  13,  279,  196],"label": "camouflaged human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01181.jpg",
+    "result": {"bbox_2d": [69,23,187,195],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01182.jpg",
+    "result": [{"bbox_2d": [  94,  25,  168,  253],"label": "human","confidence": 0.95},{"bbox_2d": [  27,  25,  100,  253],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01183.jpg",
+    "result": {"bbox_2d": [65,134,478,894],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01185.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01188.jpg",
+    "result": [{"bbox_2d": [  704,  175,  1030,  728],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01189.jpg",
+    "result": [{"bbox_2d": [  345,  356,  497,  791],"label": "human","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01190.jpg",
+    "result": [{"bbox_2d": [  364,  809,  627,  988],"label": "dog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01192.jpg",
+    "result": {"bbox_2d": [[  179,  74,  530,  760]],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01193.jpg",
+    "result": [{"bbox_2d": [  197,  430,  445,  738],"label": "tree","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01194.jpg",
+    "result": [{"bbox_2d": [  16,  164,  263,  387],"label": "animal","confidence": 0.95},{"bbox_2d": [  239,  15,  579,  262],"label": "animal","confidence": 0.92},{"bbox_2d": [  266,  160,  630,  392],"label": "animal","confidence": 0.93}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01195.jpg",
+    "result": {"bbox_2d": [36,182,557,409],"label": "camouflaged object","confidence": 0.9
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01196.jpg",
+    "result": {"bbox_2d": [198,163,457,867],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01199.jpg",
+    "result": [{"bbox_2d": [  426,  209,  523,  455],"label": "human","confidence": 0.85}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01200.jpg",
+    "result": {"bbox_2d": [538,364,605,680],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01205.jpg",
+    "result": {"bbox_2d": [315,74,600,308],"label": "lizard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01208.jpg",
+    "result": {"bbox_2d": [0,543,2609,1587],"label": "lizard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01210.jpg",
+    "result": [{"bbox_2d": [  14,  56,  768,  384],"label": "insect","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01211.jpg",
+    "result": {"bbox_2d": [239,45,456,607],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01217.jpg",
+    "result": {"bbox_2d": [168,125,374,279],"label": "snake","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01235.jpg",
+    "result": [{"bbox_2d": [  114,  15,  367,  332],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01240.jpg",
+    "result": [{"bbox_2d": [  348,  97,  695,  587],"label": "camouflaged human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01242.jpg",
+    "result": [{"bbox_2d": [  405,  178,  513,  526],"label": "human","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01243.jpg",
+    "result": {"bbox_2d": [973,924,1518,2466],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01244.jpg",
+    "result": {"bbox_2d": [143,169,365,634],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01245.jpg",
+    "result": [{"bbox_2d": [  425,  420,  896,  537],"label": "camouflaged human","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01247.jpg",
+    "result": {"bbox_2d": [168,65,330,449],"label": "human","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CAMO/Images/Test/camourflage_01250.jpg",
+    "result": [{"bbox_2d": [  386,  279,  704,  975],"label": "human","confidence": 0.95}
+    ]
+  }
+]

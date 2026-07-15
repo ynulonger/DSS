@@ -1,0 +1,382 @@
+[
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-1.jpg",
+    "result": {"bbox_2d": [185,293,641,507],"label": "lion","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-10.jpg",
+    "result": {"bbox_2d": [354,126,578,249],"label": "squirrel","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-11.jpg",
+    "result": [{"bbox_2d": [  374,  395,  836,  1008],"label": "animal","confidence": 0.95},{"bbox_2d": [  1448,  410,  1798,  968],"label": "animal","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-12.jpg",
+    "result": {"bbox_2d": [394,165,708,527],"label": "animal/insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-13.jpg",
+    "result": {"bbox_2d": [504,508,1776,3200],"label": "lizard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-14.jpg",
+    "result": {"bbox_2d": [548,67,1039,840],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-15.jpg",
+    "result": {"bbox_2d": [738,274,1756,904],"label": "animal","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-16.jpg",
+    "result": {"bbox_2d": [234,465,537,938],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-17.jpg",
+    "result": {"bbox_2d": [85,279,976,834],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-18.jpg",
+    "result": {"bbox_2d": [496,285,973,1082],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-19.jpg",
+    "result": {"bbox_2d": [198,45,376,200],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-2.jpg",
+    "result": {"bbox_2d": [584,316,1597,1488],"label": "parrot","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-20.jpg",
+    "result": {"bbox_2d": [334,75,506,368],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-21.jpg",
+    "result": {"bbox_2d": [1398,645,1472,747],"label": "animal/insect","confidence": 0.8
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-22.jpg",
+    "result": {"bbox_2d": [234,25,568,559],"label": "lizard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-23.jpg",
+    "result": {"bbox_2d": [356,14,910,756],"label": "chameleon","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-24.jpg",
+    "result": {"bbox_2d": [247,98,365,219],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-25.jpg",
+    "result": {"bbox_2d": [13,84,765,588],"label": "spider","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-26.jpg",
+    "result": {"bbox_2d": [305,94,567,428],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-27.jpg",
+    "result": {"bbox_2d": [275,94,438,260],"label": "lion","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-28.jpg",
+    "result": {"bbox_2d": [314,150,468,297],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-29.jpg",
+    "result": {"bbox_2d": [184,63,290,207],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-3.jpg",
+    "result": {"bbox_2d": [325,294,368,470],"label": "animal/insect","confidence": 0.85
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-30.jpg",
+    "result": {"bbox_2d": [267,135,384,271],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-31.jpg",
+    "result": {"bbox_2d": [145,223,410,386],"label": "turtle","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-32.jpg",
+    "result": {"bbox_2d": [184,179,315,246],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-33.jpg",
+    "result": {"bbox_2d": [98,24,315,560],"label": "lizard","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-34.jpg",
+    "result": {"bbox_2d": [58,124,647,443],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-35.jpg",
+    "result": {"bbox_2d": [95,0,314,699],"label": "tree trunk","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-36.jpg",
+    "result": {"bbox_2d": [179,208,256,264],"label": "animal/insect","confidence": 0.8
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-37.jpg",
+    "result": {"bbox_2d": [309,45,726,522],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-38.jpg",
+    "result": {"bbox_2d": [214,45,378,269],"label": "animal/insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-39.jpg",
+    "result": {"bbox_2d": [34,98,726,475],"label": "crab","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-4.jpg",
+    "result": {"bbox_2d": [54,0,1197,830],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-40.jpg",
+    "result": {"bbox_2d": [134,128,416,637],"label": "gecko","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-41.jpg",
+    "result": {"bbox_2d": [315,214,967,508],"label": "animal/insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-42.jpg",
+    "result": {"bbox_2d": [469,385,507,412],"label": "animal/insect","confidence": 0.9
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-43.jpg",
+    "result": {"bbox_2d": [95,46,663,308],"label": "fish","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-44.jpg",
+    "result": {"bbox_2d": [147,65,618,239],"label": "moth","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-45.jpg",
+    "result": {"bbox_2d": [348,167,560,219],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-46.jpg",
+    "result": {"bbox_2d": [58,36,724,459],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-47.jpg",
+    "result": {"bbox_2d": [148,65,730,392],"label": "fish","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-48.jpg",
+    "result": {"bbox_2d": [87,283,804,695],"label": "moth","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-49.jpg",
+    "result": {"bbox_2d": [196,118,345,317],"label": "rabbit","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-5.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-50.jpg",
+    "result": {"bbox_2d": [304,195,916,570],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-51.jpg",
+    "result": {"bbox_2d": [38,95,476,310],"label": "fish","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-52.jpg",
+    "result": {"bbox_2d": [98,47,476,599],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-53.jpg",
+    "result": {"bbox_2d": [225,169,347,498],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-54.jpg",
+    "result": {"bbox_2d": [374,225,613,418],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-55.jpg",
+    "result": [{"bbox_2d": [  56,  348,  374,  597],"label": "frog","confidence": 0.95},{"bbox_2d": [  363,  24,  667,  373],"label": "frog","confidence": 0.92},{"bbox_2d": [  505,  321,  867,  672],"label": "frog","confidence": 0.93}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-56.jpg",
+    "result": [{"bbox_2d": [  453,  178,  1696,  1399],"label": "bird","confidence": 0.95},{"bbox_2d": [  179,  116,  1098,  858],"label": "bird","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-57.jpg",
+    "result": {"description": "No animals, insects, or humans were detected in the image."
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-58.jpg",
+    "result": {"bbox_2d": [325,141,657,572],"label": "gecko","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-59.jpg",
+    "result": {"bbox_2d": [336,159,634,521],"label": "hedgehog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-6.jpg",
+    "result": {"bbox_2d": [345,446,517,658],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-60.jpg",
+    "result": {"bbox_2d": [314,151,520,537],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-61.jpg",
+    "result": {"bbox_2d": [117,68,329,345],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-62.jpg",
+    "result": {"bbox_2d": [0,78,926,594],"label": "gecko","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-63.jpg",
+    "result": {"bbox_2d": [0,0,587,448],"label": "spider","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-64.jpg",
+    "result": [{"bbox_2d": [  68,  239,  471,  566],"label": "insect","confidence": 0.95},{"bbox_2d": [  406,  10,  630,  341],"label": "insect","confidence": 0.9}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-65.jpg",
+    "result": {"bbox_2d": [0,245,1596,978],"label": "tiger","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-66.jpg",
+    "result": {"bbox_2d": [195,48,376,390],"label": "frog","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-67.jpg",
+    "result": [{"bbox_2d": [  375,  296,  704,  588],"label": "frog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-68.jpg",
+    "result": {"bbox_2d": [354,136,897,1232],"label": "insect","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-69.jpg",
+    "result": {"bbox_2d": [78,69,798,453],"label": "flounder","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-7.jpg",
+    "result": [{"bbox_2d": [  145,  209,  867,  953],"label": "dog","confidence": 0.95}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-70.jpg",
+    "result": {"bbox_2d": [147,38,500,419],"label": "spider","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-71.jpg",
+    "result": {"bbox_2d": [206,159,930,594],"label": "butterfly","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-72.jpg",
+    "result": [{"bbox_2d": [  589,  0,  1467,  753],"label": "animal/insect","confidence": 0.95},{"bbox_2d": [  18,  605,  215,  782],"label": "animal/insect","confidence": 0.8}
+    ]
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-73.jpg",
+    "result": {"bbox_2d": [183,14,716,654],"label": "moth","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-74.jpg",
+    "result": {"bbox_2d": [224,103,635,623],"label": "moth","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-75.jpg",
+    "result": {"bbox_2d": [74,35,396,538],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-76.jpg",
+    "result": {"bbox_2d": [267,15,549,438],"label": "owl","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-8.jpg",
+    "result": {"bbox_2d": [863,129,974,675],"label": "giraffe","confidence": 0.95
+    }
+  },
+  {
+    "image": "/data/yilong/Datasets/CHAMELEON/Imgs/animal-9.jpg",
+    "result": {"bbox_2d": [364,58,759,951],"label": "lizard","confidence": 0.95
+    }
+  }
+]
